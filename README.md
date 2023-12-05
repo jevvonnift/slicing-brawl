@@ -10,8 +10,8 @@ Hello my name is **Jevon Mozart Christian Bano** from **SMK Angkasa 1 Jakarta**.
 
 ### Result
 
-Github Link : [https://github.com/jevvonn/slicing-brawl](https://github.com/jevvonn/slicing-brawl)
-Deployed Link : [https://jevvonn.github.io/slicing-brawl](https://jevvonn.github.io/slicing-brawl/)
+Github Link : [https://github.com/jevvonnift/slicing-brawl](https://github.com/jevvonnift/slicing-brawl)
+Deployed Link : [https://jevvonnift.github.io/slicing-brawl](https://jevvonnift.github.io/slicing-brawl/)
 
 ### Technologies Used
 
